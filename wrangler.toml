@@ -1,0 +1,7 @@
+name = "zyra"
+main = "worker.js"
+compatibility_date = "2025-02-04"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "23854f8ffaf6443cb9498b7719003a67"
